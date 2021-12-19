@@ -11,4 +11,4 @@ When compatible lifeforms cross, they can reproduce.  The new life will have the
 as those need to be the same for reproduction to be possible, but all other stats will be randomly 
 selected from each parent per stat.
 
-![ss.png]
+![](ss.png)
